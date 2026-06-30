@@ -1,2 +1,4 @@
 # git_test
-Learning git basic with The Oding Project
+
+Hello Odin!
+Learning git basic with The Odin Project
